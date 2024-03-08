@@ -1,0 +1,32 @@
+Epilepsy Application
+    * Two options:
+        -redo the website for austinhansenspeaks.com to not use wordpress.
+            * Add API's like icon.horse/usage
+            * Add Google Analytics
+        - Create an Epilepsy tracker.
+            * Have an authentication process
+            * Have preset symptoms that can be checked off and then a section to write in specific symptoms
+            * Have easy access function for family members to get into the app to record symptoms that they notice with the user.
+                *EX: when a seizure is occuring.
+            * Alarm/notification that can be set to take medication. Provide options for the user of when the alram will go off. 
+                    (2x's a day 3x's a day?? What time for each alarm?)
+            * Send the notification through txt.
+            * Have a way to save all the data and send it to a care provider.
+            * Provide a way to easily check in with family members to notify them you are okay and safe.
+                - Maybe a daily checkbox that automatically sends a txt to specific famiily members.
+                    -Allows you to not have to think about sending a txt or having to interact daily but still notify family memebers
+                        
+
+
+E-Commerce Art website
+    * Customers can purchase art merchandise and commision pieces
+        - purchase t-shirts, stickers, art prints
+    * Have a funnel webpage to go to the portfolio section of the website
+    * Use API's like Square and Google Analytics
+
+
+Nicole's Pet Daycare
+    * Give customers the option to schedule when they want to drop off their pet.
+    * A way to pay or make a deposit when scheduling to drop off the pet.
+    * Authentication implementation to allow customers to check the notes of how their pet did at the end of the day.
+    * API's like Square, Google Analytics, Mailchimp
